@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# DEMO URL: [https://tungpham42.github.io/sudoku/](https://tungpham42.github.io/sudoku/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
